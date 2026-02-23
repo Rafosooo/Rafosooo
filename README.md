@@ -7,7 +7,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-darkgreen)
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboarding-yellow)
 ![GA4](https://img.shields.io/badge/GA4-API-blueviolet)
-![PWA](https://img.shields.io/badge/PWA-MobileApp-success)
+![PWA](https://img.shields.io/badge/PWA-MobileApp-success)  
 Data & Automation Engineer with professional experience in building API-driven data pipelines, business intelligence infrastructure and AI-powered automation systems.  
 Currently working with Python and SQL in production environments to extract, transform and integrate enterprise data for decision-making.  
 Experienced in extracting and integrating marketing and operational data from platforms such as Google Analytics 4, CRM systems and marketplaces via REST APIs.  
