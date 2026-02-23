@@ -1,5 +1,13 @@
 # 👋 Hi, I'm Rafael Mariano Neto
-
+![Python](https://img.shields.io/badge/Python-Data%20Engineering-blue)
+![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
+![REST API](https://img.shields.io/badge/API-Integration-green)
+![ETL](https://img.shields.io/badge/ETL-Pipelines-red)
+![n8n](https://img.shields.io/badge/n8n-Automation-purple)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-darkgreen)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboarding-yellow)
+![GA4](https://img.shields.io/badge/GA4-API-blueviolet)
+![PWA](https://img.shields.io/badge/PWA-MobileApp-success)
 Data & Automation Engineer with professional experience in building API-driven data pipelines, business intelligence infrastructure and AI-powered automation systems.  
 Currently working with Python and SQL in production environments to extract, transform and integrate enterprise data for decision-making.  
 Experienced in extracting and integrating marketing and operational data from platforms such as Google Analytics 4, CRM systems and marketplaces via REST APIs.  
@@ -108,3 +116,9 @@ BSc in Industrial Chemistry
 
 LinkedIn:  
 https://www.linkedin.com/in/rafael-mariano-neto  
+
+## 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats-seven-alpha-83.vercel.app/api?username=Rafosooo&show_icons=true)
+
+![Top Langs](https://github-readme-stats-seven-alpha-83.vercel.app/api/top-langs/?username=Rafosooo&layout=compact)
