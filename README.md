@@ -1,16 +1,39 @@
-## Hi there 👋
+# Rafael — Analytics Engineer
 
-<!--
-**Rafosooo/Rafosooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build automated marketing data pipelines using SQL, Python and AI workflows.
 
-Here are some ideas to get you started:
+Currently working with:
+- Power BI
+- REST APIs (Pipefy, ExactSales, etc)
+- Python (ETL / Automation)
+- NocoDB
+- n8n
+- OpenAI
+- PostgreSQL / SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is helping marketing and revenue teams:
+- eliminate manual reporting
+- automate lead qualification
+- integrate SaaS tools
+- centralize CRM data
+- create real-time dashboards
+
+---
+
+## Tech Stack
+SQL | Python | Power BI | n8n | REST APIs | Docker | AI Automation
+
+---
+
+## Featured Projects
+
+- Marketing Data Pipeline (Pipefy → Postgres → Power BI)
+- AI Lead Scoring Workflow (n8n + OpenAI)
+- Automated SaaS Backup System (NocoDB → Data Lake)
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/rafael-mariano-neto/
+Email: rafaelmarianoneto10@gmail.com
